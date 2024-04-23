@@ -20,8 +20,8 @@ C Programming Helper helps to create C projects or files using the templates spe
 
 -p, --project [NAME]        create project specified called [NAME]
 -f, --files [NAME]          create source and header files called [NAME].{c,h}
--s, --source [NAME]
--h, --header [NAME]
+-s, --source [NAME]         create header file called [NAME].h
+-h, --header [NAME]         create source file called [NAME].c
 -h, --help                  display this help message
 
 EOF
